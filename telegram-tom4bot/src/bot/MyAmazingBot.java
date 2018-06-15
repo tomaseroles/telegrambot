@@ -77,6 +77,6 @@ public class MyAmazingBot extends TelegramLongPollingBot {
     @Override
     public String getBotToken() {
         // TODO
-        return "564347015:AAFQi0je1YjescYHyEGffvVZSghqZ36DxQw";
+        return "";
     }
 }
